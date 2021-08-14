@@ -6,3 +6,4 @@ colours
 vibrant
 dark mode
 video option
+audio option
